@@ -1,0 +1,1 @@
+openssl genrsa -out cert/client-key.pem 4096

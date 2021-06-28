@@ -1,0 +1,18 @@
+{
+  "name": "cypress-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "http-proxy": "^1.18.1",
+    "jest": "^27.0.5"
+  }
+}

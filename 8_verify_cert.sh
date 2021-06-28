@@ -1,0 +1,1 @@
+openssl verify -CAfile cert/ca-crt.pem cert/client-crt.pem

@@ -1,0 +1,1 @@
+openssl req -new -x509 -days 9999 -keyout cert/ca-key.pem -out cert/ca-crt.pem

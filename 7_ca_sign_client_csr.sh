@@ -1,0 +1,1 @@
+openssl x509 -req -days 999 -in cert/client-csr.pem -CA cert/ca-crt.pem -CAkey cert/ca-key.pem -CAcreateserial -out cert/client-crt.pem
